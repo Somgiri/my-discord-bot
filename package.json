@@ -1,18 +1,21 @@
 {
-  "name": "workspace",
+  "name": "sidewide-landing-page",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "Modern landing page for SIDEWIDE with animations and responsive design",
+  "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "echo 'Open index.html in your browser to view the landing page'",
+    "test": "echo 'No tests specified'"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "axios": "^1.11.0",
-    "discord.js": "^14.22.1",
-    "dotenv": "^17.2.1",
-    "openai": "^5.16.0"
-  }
+  "keywords": [
+    "landing-page",
+    "responsive",
+    "animations",
+    "modern-design",
+    "sidewide"
+  ],
+  "author": "SIDEWIDE",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
 }
